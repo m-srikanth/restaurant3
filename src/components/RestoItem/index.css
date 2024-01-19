@@ -1,0 +1,49 @@
+.li2 {
+  list-style-type: none;
+  border: 1px solid;
+  border-radius: 4px;
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  margin: 20px;
+}
+.img1 {
+  height: 100px;
+  width: 100px;
+}
+.div11 {
+  height: 30px;
+  width: 120px;
+  background-color: green;
+  color: white;
+  border-radius: 15px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.btn1 {
+  border-width: 0;
+  color: white;
+  background-color: transparent;
+}
+.div12 {
+  width: 100px;
+  display: flex;
+  justify-content: space-between;
+}
+.not {
+  color: red;
+}
+.custm {
+  color: blue;
+}
+.currency {
+  color: orange;
+  font-weight: 500;
+}
+.cur {
+  color: grey;
+}
+.dis {
+  color: lightgray;
+}
